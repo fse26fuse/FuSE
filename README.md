@@ -258,7 +258,7 @@ Java_0,11,5,4,6,0.364,0.545,4,0.8,7,7,3,0,17.157,81.059,22.061
 ### Real world programs
 
 In general, all steps are consistent with the benchmark. Alternatively, you can execute each step individually. 
-First, enter the directory `UTBotJava/benchmarkJava/trueProgram/graph`
+First, enter the directory `UTBotJava/benchmarkJava/trueProgram/commons-cli` or `UTBotJava/benchmarkJava/trueProgram/commons-math`
 
 ``` sh
 1. bash main.sh {testFileDir}
